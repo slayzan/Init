@@ -1,1 +1,2 @@
-/sgoinfre/goinfre/ISO
+cat /etc/debian_version
+lsb release -a

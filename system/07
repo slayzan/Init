@@ -1,1 +1,1 @@
-top 556
+cat /var/run/sshd.pid
